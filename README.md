@@ -4,6 +4,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20to&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yujin's%20Github&descAlign=62"/>
 </p>
 
+![전유진's github stats](https://github-readme-stats.vercel.app/api?username=jacomyou1026&show_icons=true&theme=tokyonight)
+
+
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
